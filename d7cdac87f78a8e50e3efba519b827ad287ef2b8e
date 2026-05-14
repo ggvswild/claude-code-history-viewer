@@ -1,0 +1,29 @@
+docs/specs/2026-05-14-entrypoint-source-filter.md
+  3320ed552382f68b 1-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.7",
+  "base_commit_sha": "d7cdac87f78a8e50e3efba519b827ad287ef2b8e",
+  "prompts": {
+    "3320ed552382f68b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ae49501-2b43-4a25-b386-a53ea29337e1",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhujiabin",
+      "messages": [],
+      "total_additions": 118,
+      "total_deletions": 0,
+      "accepted_lines": 118,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "docs/specs/2026-05-14-entrypoint-source-filter.md": {
+          "additions": 118,
+          "accepted_lines": 118
+        }
+      }
+    }
+  }
+}
