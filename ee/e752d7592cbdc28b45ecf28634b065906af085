@@ -1,10 +1,10 @@
-package.json
-  3320ed552382f68b 35
+docs/specs/2026-05-14-entrypoint-source-filter.md
+  3320ed552382f68b 1-118
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.2.8-ntes.7",
-  "base_commit_sha": "9f78d15d34920010b3880e5ebe320eac36d78cde",
+  "base_commit_sha": "eee752d7592cbdc28b45ecf28634b065906af085",
   "prompts": {
     "3320ed552382f68b": {
       "agent_id": {
@@ -14,15 +14,14 @@ package.json
       },
       "human_author": "zhujiabin",
       "messages": [],
-      "total_additions": 1,
-      "total_deletions": 1,
-      "accepted_lines": 1,
+      "total_additions": 118,
+      "total_deletions": 0,
+      "accepted_lines": 118,
       "overriden_lines": 0,
       "per_file_stats": {
-        "package.json": {
-          "additions": 1,
-          "deletions": 1,
-          "accepted_lines": 1
+        "docs/specs/2026-05-14-entrypoint-source-filter.md": {
+          "additions": 118,
+          "accepted_lines": 118
         }
       }
     }
