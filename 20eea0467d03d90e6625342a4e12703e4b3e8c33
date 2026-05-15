@@ -1,0 +1,30 @@
+package.json
+  3320ed552382f68b 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.7",
+  "base_commit_sha": "9f78d15d34920010b3880e5ebe320eac36d78cde",
+  "prompts": {
+    "3320ed552382f68b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ae49501-2b43-4a25-b386-a53ea29337e1",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhujiabin",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "package.json": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        }
+      }
+    }
+  }
+}
